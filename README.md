@@ -32,15 +32,4 @@
 
 ## Make predictions with best model (90% accuracy)
     > python predict.py
-## Tensoarboard
-    > tensorboard --logdir=logs/
-## Accuracy & Loss
-![alt text](img/90.png)
 
-## Normal Record
-![alt text](img/Normal.png)
-## Abnormal Record
-![alt text](img/Abnormal.png)
-
-
-# -
