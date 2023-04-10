@@ -1,20 +1,15 @@
-![alt text](https://d20vrrgs8k4bvw.cloudfront.net/images/courses/logos/logo-color-tensorflow.png)
-
 ## Install WFDB Software Package
      Follow instructions in: https://physionet.org/physiotools/wfdb-linux-quick-start.shtml 
 
-## Install requirements
-    > pip install -r requirements.txt
-    > apt-get install python-tk
 
 ## Install requirements
     > pip install -r requirements.txt
 
 ## Download Dataset
-    > wget -r -np http://www.physionet.org/physiobank/database/afpdb/
+    > get data from https://www.physionet.org/content/afpdb/1.0.0/
 
 ## Copy paste afpdb folder to current directory 
-    > mv www.physionet.org/physiobank/database/afpdb .
+    >  rename data dir name afpdb  
 
 ## Go to src folder
     > cd src
