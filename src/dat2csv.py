@@ -1,5 +1,3 @@
-# https://github.com/mondejar/ecg-classification.git
-
 from os import listdir, mkdir, system
 from os.path import isfile, isdir, join, exists
 
